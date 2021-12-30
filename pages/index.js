@@ -6,7 +6,7 @@ export default function Home() {
           .com
         </div>
         <div className="tiny text-right pr-2 text-gray-400">
-          From{' '}
+          That's it. That's the site. From{' '}
           <a href="https://www.alanwsmith.com/" className="text-blue-400">
             Alan W. Smith
           </a>{' '}
